@@ -8,6 +8,10 @@
 .text-me {
   font-size: 1.5rem;
 }
+.my-img {
+  height: 200px;
+  object-fit: cover;
+}
 @media screen and (max-width: 992px) {
   .panel {
     margin-top: 3rem;
